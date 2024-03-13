@@ -1,5 +1,8 @@
 # CyberSec_LearningPath
 
+Context:
+It's hard to learn cybersecurity if you don't have the resources for a proper career or just couldn't choose that path in your major; I know a bunch of friends who've dropped trying to learn cyber because when you start it's daunting, you first see an intro to, and then it's unclear what now, then you try solving a TryHackMe or HackTheBox exercise and don't know where to even begin
+
 ## Introductions:
 0. Intro to Academy: https://academy.hackthebox.com/module/details/15
 1. Introduction to Networking: https://academy.hackthebox.com/module/details/34
