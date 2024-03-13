@@ -29,7 +29,7 @@ It's hard to learn cybersecurity if you don't have the resources for a proper ca
 16. Cracking Passwords with Hashcat: https://academy.hackthebox.com/module/details/20
 ## Practice
 17. With TryHackMe: https://tryhackme.com/hacktivities?tab=practice
-18. With your own devices: Build local webapps and servers to be attacked
+18. With your own devices: Build local VMs, webapps and servers to be attacked
 19. With your own resources: You can attack your own AWS instances as far as i know 
 20. CTFs
 21. Internships
