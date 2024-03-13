@@ -1,0 +1,27 @@
+PortSwigger
+Web, muestra parte teoría parte práctica de qué métodos son utilizados para pentesting en aplicaciones web
+Tiene secciones de Injection, vulnerabilidades,  usar burp suite, vulnerabilidades en HTTP, OAuth 2.0, websockets
+https://portswigger.net/
+
+Rootme
+Web challenges (nunca lo he usado)
+https://www.root-me.org/
+
+Desafíos de criptografía (no lo he usado)
+https://cryptohack.org/
+
+Cyberdefenders
+Desafíos de forense (no lo he usado)
+https://cyberdefenders.org/
+
+TryHackMe
+Tiene muchos módulos de diferentes herramientas y metodologías de como se lleva a cabo el proceso de pentesting o de blue teamming 
+Recomiendo empezar por Red Team basics o algo así era el curso
+Si todavía no entiendes bien como funcionan los protocolos y estándares de redes recomiendo primero empezar con Intro to Networks
+O algo así se llama el de HackTheBox
+Los certificados son más baratos que los de hackthebox y es mejor que nada
+https://tryhackme.com/
+
+HackTheBox
+Explica a gran detalle el cómo funcionan las partes de los módulos o conceptos, tanto que llega a saturarte de información que no comprendes completamente y no hay muchas prácticas que es lo más importante, entonces recomiendo que instales kali, crees una vm y vayas testeando las herramientas que estás viendo en la página 
+https://academy.hackthebox.com/
