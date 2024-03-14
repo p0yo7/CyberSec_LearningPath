@@ -6,7 +6,7 @@ It's hard to learn cybersecurity if you don't have the resources for a proper ca
 ## Introductions:
 0. Intro to Academy: https://academy.hackthebox.com/module/details/15
 1. Introduction to Networking: https://academy.hackthebox.com/module/details/34
-2. Intro to Cybersecurity: https://portswigger.net/web-security/learning-paths/sql-injection
+2. Intro to Cybersecurity: https://tryhackme.com/paths
 3. Network Security: https://tryhackme.com/module/network-security
 
 ## Recon
