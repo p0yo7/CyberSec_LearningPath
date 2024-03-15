@@ -6,7 +6,7 @@ It's hard to learn cybersecurity if you don't have the resources for a proper ca
 ## Introductions:
 0. Intro to Academy: https://academy.hackthebox.com/module/details/15
 1. Introduction to Networking: https://academy.hackthebox.com/module/details/34
-2. Intro to Cybersecurity: https://tryhackme.com/paths
+2. Intro to Cybersecurity *this is an entire course you need to pay for* : https://tryhackme.com/paths
 3. Network Security: https://tryhackme.com/module/network-security
 
 ## Recon
@@ -27,9 +27,11 @@ It's hard to learn cybersecurity if you don't have the resources for a proper ca
 14. Linux Escalation: https://academy.hackthebox.com/module/details/51 
 15. John-The-Ripper: https://tryhackme.com/room/johntheripper0
 16. Cracking Passwords with Hashcat: https://academy.hackthebox.com/module/details/20
+A. Escalation with binaries vulnerabilities: https://gtfobins.github.io/
 ## Practice
 17. With TryHackMe: https://tryhackme.com/hacktivities?tab=practice
 18. With your own devices: Build local VMs, webapps and servers to be attacked
 19. With your own resources: You can attack your own AWS instances as far as i know 
 20. CTFs
 21. Internships
+22. 
