@@ -16,7 +16,7 @@ TryHackMe is way cheaper than HackTheBox, it can be about $14 a month or $10 a m
 5. Jr. Pentester: https://tryhackme.com/path/outline/jrpenetrationtester
 6. Planning and Scoping: https://tryhackme.com/module/planning-and-scoping
 7. Nmap:
-* A Premium Module https://tryhackme.com/module/nmap **You have to pay after 3 modules, go to module B**
+* A Premium Module: https://tryhackme.com/module/nmap **You have to pay after 3 modules, go to module B**
 * B Nmap Free Room: https://tryhackme.com/r/room/furthernmap
 8. Hydra: https://tryhackme.com/r/room/hydra
 9. Gobuster: https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/
@@ -24,6 +24,7 @@ TryHackMe is way cheaper than HackTheBox, it can be about $14 a month or $10 a m
 ### Practice 
 1. I recommend doing this one first, because if you're feeling lost, you can watch the walkthrough
 * https://tryhackme.com/r/room/basicpentestingjt
+
 2. If you feel lost, go back and browse the modules you're supposed to use
 * https://tryhackme.com/r/room/rrootme
 
