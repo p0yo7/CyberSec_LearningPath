@@ -52,3 +52,12 @@ A. Escalation with binaries vulnerabilities: https://gtfobins.github.io/
 24. CTFs
 25. Repeat
 26. Internships
+
+## Certifications 
+0. CompTIA
+1. CISSP - ISC2 -https://www.isc2.org/certifications/cissp
+2. Certified Blue Team - Security Blue Team - https://www.securityblue.team/certifications/blue-team-level-1
+3. CDSA - HackTheBox - https://www.hackthebox.com/blog/defensive-security-analyst-certification
+4. CBBH, CPTS - HackTheBox - https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter
+5. CWEE - HackTheBox - https://academy.hackthebox.com/news/launching-htb-cwee-htb-certified-web-exploitation-expert
+6. Maldev
